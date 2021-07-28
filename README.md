@@ -6,4 +6,4 @@ Image
 docker pull wellintton/codeeducation:latest
 
 
-# Challenge - Docker Nodejs
+# Challenge - Docker NodeJS
